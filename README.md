@@ -1,16 +1,27 @@
-## Hi there 👋
+# 김지현 | 웹 서비스와 데이터 분석
 
-<!--
-**Gomdori-dev/Gomdori-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI 도구를 활용해 웹 서비스를 만들고, 데이터 분석 프로젝트를 진행하고 있습니다. 프로젝트의 기능과 작동 원리를 이해하며 개발 기초를 공부하고 있습니다.
 
-Here are some ideas to get you started:
+## Pote(포트)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+작품과 작가 정보를 살펴보고 취향에 맞는 작품을 찾아볼 수 있는 웹 서비스입니다. 작품 검색과 필터, 찜, 문의 기능과 함께 취향 추천 퀴즈와 공간 미리보기 기능을 구성했습니다.
+
+[프로젝트 소개](https://github.com/Gomdori-dev/pote-gallery) · [서비스 보기](https://potegallery.com/)
+
+실제 서비스 코드는 비공개로 관리합니다.
+
+## 개인 자산 관리
+
+자산과 대출, 월별 현금흐름을 한곳에서 기록하고 확인할 수 있는 개인용 웹 서비스입니다. 상환 계획, 데이터 파일 가져오기, 백업과 복원 기능을 포함합니다.
+
+코드는 비공개로 관리하며 이 페이지에는 주요 기능만 소개합니다.
+
+## 난임 임신 성공 예측
+
+난임 시술 데이터를 기반으로 임신 성공 가능성을 예측하는 머신러닝 분류 팀 프로젝트입니다. 데이터 전처리, 모델 비교와 검증 과정을 소개합니다. 전체 코드와 원본 데이터는 공개하지 않습니다.
+
+[프로젝트 소개](https://github.com/Gomdori-dev/infertility-pregnancy-prediction)
+
+---
+
+위 웹 프로젝트는 AI 도구를 활용해 제작했습니다.
